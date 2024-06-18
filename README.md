@@ -9,6 +9,7 @@
 #### 4) Top 10 SKU Performance Analysis: Conducted in-depth analysis of SKU performance, identifying top-selling products and underperforming items.
 #### 5) Customer Retention Analysis:
 #### 6) Category-specific Sales Trends: Analyzed sales data by category to uncover trends and opportunities within each product category.
+#### 7) PowerBI used for responsive dashboard.
 
 ## Results:
 
